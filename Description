@@ -1,0 +1,9 @@
+The project helps organize Polytechnic Automatics and Computer faculty’s LAN party, 
+where student teams can challenge their abilities at a specific game. 
+Features: 
+1 Generate a profile for every player based on an input file data and put them on a list. 
+2 Calculate a score based on the input profile. 
+3 Eliminate the teams with the lowest score. 
+4 Organize matches and further eliminate losers. 
+5 Generates a list of best 8 teams remaining using a BST/AVL.
+6 Selects a winner.
